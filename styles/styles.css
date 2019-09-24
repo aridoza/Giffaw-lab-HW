@@ -1,5 +1,9 @@
-.gif-gallery {
+#gif-gallery {
     /* display: grid; */
-    width: 40vw;
-    height: auto;
+    /* width: 100vw;
+    height: auto; */
+}
+
+#gif-container {
+    text-align: center;
 }
